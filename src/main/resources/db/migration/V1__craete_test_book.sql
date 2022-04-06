@@ -1,0 +1,3 @@
+CREATE TABLE IF NOT EXISTS test_book(
+id  bigint(20) PRIMARY KEY AUTO_INCREMENT,
+name  varchar(255))ENGINE=InnoDB DEFAULT CHARSET=utf8;;
